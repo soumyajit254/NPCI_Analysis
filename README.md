@@ -7,6 +7,7 @@ Compare payment systems (UPI, IMPS, AePS, NACH, NETC)
 Identify market share distribution
 Study growth patterns and seasonal variations
 # Dashboard
+![image alt](https://github.com/soumyajit254/NPCI_Analysis/blob/98d72eaef057f2f11ffe17b97bb40ab40791fb0e/Dashboard.png)
 
 # Tools & Technologies
 Python (Pandas, Matplotlib)
